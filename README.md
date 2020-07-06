@@ -18,7 +18,7 @@ phpunit tests
 
 CURL examples (NB! replace URLs):
 
-cd curl
+cd curls
 
 curl_post_upload_json.txt - how to send data to API
 
