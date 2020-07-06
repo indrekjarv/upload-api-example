@@ -1,6 +1,6 @@
 # upload-api-example
 
-git clobe https://github.com/indrekjarv/upload-api-example.git
+git clone https://github.com/indrekjarv/upload-api-example.git
 
 cd upload-api-example
 
