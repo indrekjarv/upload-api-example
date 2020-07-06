@@ -28,4 +28,4 @@ curl_get_media.txt - how to read all records
 
 curl_get_media_2.txt - how to read one record
 
-curl_delete_media.txt - hot to delete
+curl_delete_media.txt - how to delete
