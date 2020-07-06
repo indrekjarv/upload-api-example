@@ -1,0 +1,1 @@
+curl http://upload-api.lan/media -X GET -H "Accept: application/json"

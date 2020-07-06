@@ -1,0 +1,1 @@
+curl http://upload-api.lan/upload -X POST --form data='{"account_id":"2"}' --form upload=@fail1.jpg
